@@ -1,0 +1,8 @@
+[
+    "-" : {
+    "id": 1001,
+    "title" : "Arrays",
+    "description" : "Arrays are containers that hold variables; they're used to group together similar variables. You can think of arrays like shelves at a pet store. The array would be the shelf, and the animals in cages are the variables inside.",
+    "type" : "Language"
+  }
+]
